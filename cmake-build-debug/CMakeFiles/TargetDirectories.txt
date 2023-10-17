@@ -1,0 +1,3 @@
+/home/jonas/Documents/School/C/PRPR_2023-10-17_PWD/cmake-build-debug/CMakeFiles/PRPR_2023_10_17_PWD.dir
+/home/jonas/Documents/School/C/PRPR_2023-10-17_PWD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jonas/Documents/School/C/PRPR_2023-10-17_PWD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
